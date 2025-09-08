@@ -84,9 +84,7 @@ const Footer: React.FC = () => {
             <p className="text-gray-300 text-sm">
               © 2025 My Equity School. All rights reserved.
             </p>
-            <div className="text-gray-400 text-sm">
-              © 2025 Your Company Legal Name. All rights reserved.
-            </div>
+           
           </div>
         </div>
       </div>
