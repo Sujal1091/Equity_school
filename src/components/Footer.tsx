@@ -86,10 +86,6 @@ const Footer: React.FC = () => {
             </p>
             <div className="text-gray-400 text-sm">
               © 2025 Your Company Legal Name. All rights reserved.
-            <p className="text-gray-400 text-sm">
-              Company Number: [As per MSME Certificate]
-              Registered Educational Institution
-            </p>
             </div>
           </div>
         </div>
